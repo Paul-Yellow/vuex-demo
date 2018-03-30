@@ -1,4 +1,4 @@
-## vuex-demo 说明
+## vuex-demo 说明 (https://github.com/Paul-Yellow/vuex-demo)
 
 ```
 demo 中共有三个目录分别是src、 src1、 src2分别对应了vuex的不同用法。
@@ -15,7 +15,7 @@ demo 中共有三个目录分别是src、 src1、 src2分别对应了vuex的不�
 ## vuex 理解
   ```
   Vuex 使用 单一状态树——是的，用一个对象就包含了全部的应用层级状态.
-  （很好学不用发愁   ^_^!）
+  【 很好学不用发愁（ 只要每个目录手动敲三遍 ^_^! ）   】 
 
   ```
 ## vuex 核心概念
